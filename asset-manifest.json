@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/clock-pomodoro/static/css/main.d46323e5.css",
+    "main.js": "/clock-pomodoro/static/js/main.9db88321.js",
+    "static/js/787.830837e5.chunk.js": "/clock-pomodoro/static/js/787.830837e5.chunk.js",
+    "static/media/Beep.wav": "/clock-pomodoro/static/media/Beep.1d012d48bf3dfa3cc856.wav",
+    "index.html": "/clock-pomodoro/index.html",
+    "main.d46323e5.css.map": "/clock-pomodoro/static/css/main.d46323e5.css.map",
+    "main.9db88321.js.map": "/clock-pomodoro/static/js/main.9db88321.js.map",
+    "787.830837e5.chunk.js.map": "/clock-pomodoro/static/js/787.830837e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d46323e5.css",
+    "static/js/main.9db88321.js"
+  ]
+}
